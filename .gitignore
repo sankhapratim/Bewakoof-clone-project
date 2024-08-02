@@ -1,0 +1,4 @@
+# Local Netlify folder
+.netlify
+getMachineId-unsupported.js.map
+node_modules/
