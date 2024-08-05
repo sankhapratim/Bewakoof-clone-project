@@ -1,5 +1,5 @@
 {
-  "name": "bewakoof-project",
+  "name": "rugged-jar-633",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,8 +42,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "vercel": "^35.2.3"
+=======
+>>>>>>> bcd44364f39a7f2907e9fea4563a0c7d7488290f
   }
 }
