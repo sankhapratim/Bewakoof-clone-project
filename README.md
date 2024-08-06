@@ -18,10 +18,6 @@ Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application com
    <img src="https://img.shields.io/badge/-Material--UII-blue" alt="redux" />
  </p>
 <br/>
-<img src="https://images.bewakoof.com/uploads/grid/app/Desktop-Strip-3-1672040129.jpg" alt="Bewakoof" />
-<img src="https://images.bewakoof.com/uploads/grid/app/Desktop-Strip-6-1669217199.jpg" alt="Bewakoof" />
-<img src="https://images.bewakoof.com/uploads/grid/app/desktop-survey-1673330211.jpg" alt="Bewakoof" />
-<br>
 <h3 align="center"><a href="https://66b22fb51e5763281bff7be5--boisterous-baklava-5df43c.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 🎯 Features
 - Login and Signup User Account
