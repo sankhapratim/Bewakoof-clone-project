@@ -1,14 +1,9 @@
 
  <h1> Bewakoof.com </h1>
 <br/>
-🎯 Hi our Project Name is Bewakoof. 
-<br/>
-🎯 Individual Project
 <hr>
 Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application commerce website where a user can find different accessories for men and women. It is a Full-stack web application for buying clothes and accessories and payment page or login signup/logout page.
 <br/>
-<br/>
-while helping make your Shopping experience memorable with innovative apps, competitive prices and 24/7 customer service. Order Now !
 <br/>
 <br/>
 <h2><i>🎯 Using Languages & Tools 🧰</i></h2>
@@ -26,34 +21,23 @@ while helping make your Shopping experience memorable with innovative apps, comp
 <img src="https://images.bewakoof.com/uploads/grid/app/Desktop-Strip-3-1672040129.jpg" alt="Bewakoof" />
 <img src="https://images.bewakoof.com/uploads/grid/app/Desktop-Strip-6-1669217199.jpg" alt="Bewakoof" />
 <img src="https://images.bewakoof.com/uploads/grid/app/desktop-survey-1673330211.jpg" alt="Bewakoof" />
-🎯## Important Links 🔗 
-<a href="https://legendary-moonbeam-59c991.netlify.app/">Deployed Link</a>
 <br>
-
+<h3 align="center"><a href="https://66b22fb51e5763281bff7be5--boisterous-baklava-5df43c.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 🎯 Features
-- Responsive Home Page.
-- Login/Signup page with working properly.
-- Product page show appending data.
-- Add the Detailed page successfully.
-- Checkout page and payment done successfully. 
-- Cart page list down.
-- Slider Filter sorting.
-- Search Functionlity .
+- Login and Signup User Account
+- Product Sorting Based on Price, Rating and Name
+- My Orders Section for details of all ordered item
+- Wishlist Add and Remove Items
+- Cart Add and Remove Items 
+- Cart Update Quantities 
+- Address Management
+- Order Summary
+
 
 
 ## Landing Page
 
 ![image](https://user-images.githubusercontent.com/101393695/223527701-e54fb758-37cd-4a6b-bac5-2b0d73139f60.png)
-
-
-## Product Page
-
-![image](https://user-images.githubusercontent.com/101393695/223527998-a3a00257-8d31-45fe-a1ed-c831833078b2.png)
-
-
-## checkout Page
-![image](https://user-images.githubusercontent.com/101393695/223528978-acb22dab-7c0c-4077-a961-cedf75065467.png)
-
 
 
 ## login Page
