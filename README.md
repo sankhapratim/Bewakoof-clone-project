@@ -34,12 +34,3 @@ Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application com
 - Order Summary
 
 
-
-## Landing Page
-
-![image](https://user-images.githubusercontent.com/101393695/223527701-e54fb758-37cd-4a6b-bac5-2b0d73139f60.png)
-
-
-## login Page
-
-![image](https://user-images.githubusercontent.com/101393695/223528234-08bf8ca5-1991-42db-a4f7-673e7f9f8aec.png)
