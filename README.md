@@ -19,7 +19,24 @@ Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application com
  </p>
 <br/>
 <h3 align="center"><a href="https://66b22fb51e5763281bff7be5--boisterous-baklava-5df43c.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
-🎯 Features
+
+
+
+## Screens 
+- Homepage / Landing Page
+- Product Listing Page with all categories
+- Product Description Page
+- Cart Management Page
+- Checkout with Address Management Page
+- Login / Logout Page
+- Order Summary Page
+- Single Product Page
+
+
+<br />
+
+
+##  Features
 - Login and Signup User Account
 - Product Sorting Based on Price, Rating and Name
 - My Orders Section for details of all ordered item
@@ -29,4 +46,36 @@ Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application com
 - Address Management
 - Order Summary
 
+<br />
+
+## Screen tour of Bewakoof-Clone 🙈 :
+
+
+
+
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/FDBxbh3/Capture1.png"  alt="home" /></td>
+    <td><img src="https://i.ibb.co/HPWYSFD/Capture2.png"  alt="coupons" /></td>
+  </tr>
+  <tr>
+   
+  </tr>
+  <tr>
+   
+   
+  </tr>
+  <tr>
+  
+  </tr>
+   <tr>
+  
+  </tr>
+  <tr>
+   
+  </tr>
+
+</table>
+
+<br />
 
