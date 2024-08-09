@@ -55,7 +55,7 @@ Bewakoof.com Clone is React, HTML/CSS, Chakra-UI, E-commerce web application com
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/FDBxbh3/Capture1.png"  alt="home" /></td>
+    <td><img src="https://i.ibb.co/xz6Z8W6/Screenshot-2024-08-09-111355.png" alt="Screenshot-2024-08-09-111355" border="0"></td>
     <td><img src="https://i.ibb.co/HPWYSFD/Capture2.png"  alt="coupons" /></td>
   </tr>
   <tr>
